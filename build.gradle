@@ -5,6 +5,7 @@ buildscript {
     ext.sqldelight_version = '1.5.0'
     ext.navigation_version = '2.3.5'
     ext.hilt_version = '2.37'
+    ext.compose_version = '1.0.0-rc01'
     repositories {
         google()
         mavenCentral()
